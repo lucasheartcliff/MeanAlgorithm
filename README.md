@@ -1,2 +1,0 @@
-# MeanAlgorithm
-Created with CodeSandbox
